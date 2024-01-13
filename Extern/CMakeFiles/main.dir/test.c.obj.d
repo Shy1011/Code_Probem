@@ -1,0 +1,22 @@
+CMakeFiles/main.dir/test.c.obj: \
+ C:\Users\RanShy\Desktop\Code_Problem\test.c \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/_mingw_print_pop.h \
+ C:\Users\RanShy\Desktop\Code_Problem\extern.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
+ D:/Softwares/C_Compile/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/Softwares/C_Compile/mingw64/x86_64-w64-mingw32/include/malloc.h
